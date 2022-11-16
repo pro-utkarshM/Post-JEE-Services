@@ -1,0 +1,18 @@
+Java
+Python
+Data Structure and Algorithim
+JavaScript
+C
+C++
+C#
+PHP
+Ruby
+SQL
+MATLAB
+Rust
+Perl
+Computer Architecture(youtube: Nerd Lesson)
+Assembly language
+HTML
+CSS
+NodeJS
