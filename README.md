@@ -1,5 +1,5 @@
 # Post-JEE-Services
-This project is a Java Console Application to alot you colleges which you are getting on the basis you rank and quota.
+This project is a Java Console Application to alot you colleges which you are getting on the basis you rank and gender quota.
 
 I decided to build this project after my JEE Adv. exam got over I had have all the time in the world, and at the same time I started searching for colleges which i was get according to my JEE Mains rank.
 I found many platforms which was healping us find our one institute but they were doing all things by their own (Imean on pen and paper), so I made this Application to make our search for college easier. While making this added 
